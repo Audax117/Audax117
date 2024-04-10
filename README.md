@@ -1,4 +1,14 @@
-### Hi there 👋
+# About Me
+
+Doctor in Bioengieering currently based in Ancona (The Marches, Italy). 
+
+
+University:
+- Bachelor's degree in Biomedical Engineering at UNIVPM (AY 2017/2020)
+- Master's degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023)
+
+My academic formation included courses in 
+- 
 
 <!--
 **Audax117/Audax117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
