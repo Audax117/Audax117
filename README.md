@@ -2,10 +2,11 @@
 
 Doctor in Bioengieering currently based in Ancona (The Marches, Italy). 
 
-"Simple is better than complex. Complex is better than complicated"
+University projects and thesis research sparked my interest in data analysis and visualization. This led me to develop a strong skillset in these areas, ultimately guiding me toward a data analyst career path.
+
+A (popular) principle I believe in: "Simple is better than complex. Complex is better than complicated"
 
 Ex Rugby player, now obsessed with Beach Volleyball 😎 
-
 
 Certifications:
 - Cambridge English B2 FCE (2017)
