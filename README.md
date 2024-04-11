@@ -1,17 +1,21 @@
 # About Me
 
 Doctor in Bioengieering currently based in Ancona (The Marches, Italy). 
+
 "Simple is better than complex. Complex is better than complicated"
+
+Ex Rugby player, now obsessed with Beach Volleyball 😎 
+
 
 Certifications:
 - Cambridge English B2 FCE (2017)
 
-I have a good understading of:
+I have a good understanding of:
   - Python 
   - MATLAB
   - SQL
 
-I'm familiar with the basiscs of: 
+I'm familiar with the basics of: 
   - C
   - C ++
   - HTML
@@ -19,12 +23,9 @@ I'm familiar with the basiscs of:
   - ASP
   - PDDL
 
-Certifications:
-- Cambridge English B2 FCE (2017)
-
 University:
-- Bachelor's degree in Biomedical Engineering at UNIVPM (AY 2017/2020). Graduated with 110 cum laude. 
-- Master's degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023). Graduated with 110 cum laude.
+- Bachelor's Degree in Biomedical Engineering at UNIVPM (AY 2017/2020). Graduated with 110 cum laude. 
+- Master's Degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023). Graduated with 110 cum laude.
 
 ## Bachelor's Degree
 My Bachelor academic formation included courses in:
@@ -70,6 +71,7 @@ My Master academic formation included courses in:
 - Professional Skills
 - Neuroengineering Research Track
 
+In my Master Thesis I implemented Machine Learning based approaches to identify non-obvious relationships between clinical and biological features in Chronic Lymphocytic Leukemia (CLL). The proposed Data Analysis and Machine Learning pipeline successfully stratifies CLL patients in homogeneous groups, revealing non-obvious relationships among features and identifying potential markers of differential in vivo stimulation. 
 
 
 
