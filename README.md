@@ -14,19 +14,25 @@ Certifications:
 I have a good understanding of:
   - Python 
   - MATLAB
-  - SQL
 
 I'm familiar with the basics of: 
   - C
   - C ++
+  - SQL
+  - R
   - HTML
   - CSS
   - ASP
   - PDDL
 
 University:
-- Bachelor's Degree in Biomedical Engineering at UNIVPM (AY 2017/2020). Graduated with 110 cum laude. 
-- Master's Degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023). Graduated with 110 cum laude.
+- Bachelor's Degree in Biomedical Engineering at UNIVPM (AY 2017/2020). Graduated with 110 cum laude. Thesis: "Time-Frequency Analysis Of Muscular Rectruitment In Parkinson's Disease" (see below for details).  
+- Master's Degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023). Graduated with 110 cum laude. Thesis: "Machine Learning Based Approaches To Identify Non-Obvious Relationships Between Clinical and Biological Features In Chronich Lymphocytic Leukemia" (see below for details).
+
+
+Academic Projects:
+- To improve the performance of an ASP-based rehabilitation scheduling system, I conducted a detailed analysis. I compared the original ASP output to the coordinator's modified schedule to identify implicit assignment factors. This led to the creation of new ASP rules and constraints, informed by real-world scheduling practices, aiming to optimize the encoding's effectiveness.
+- I developed a system to automatically classify facial expressions (serious or smiling) and gender using the FEI face database, a carefully controlled set of images.  To ensure consistent analysis, images underwent preprocessing steps such as resizing, grayscale conversion, and formatting. I used Principal Component Analysis (PCA) to explore the dataset and understand the role of different features in classification.  Next, I built and tested several classification models, including Naive Bayes Classifier (NB), Logistic Regression (LR), and a combination of Linear Discriminant Analysis with Naive Bayes (LDA NB). Model performance was compared using metrics like error rate, sensitivity, specificity, and Area Under ROC (AUC), revealing the superiority of the LDA NB model. Finally, I employed Linear Discriminant Analysis (LDA) to pinpoint the most crucial facial features for differentiating between expressions and genders.
 
 ## Bachelor's Degree
 My Bachelor academic formation included courses in:
@@ -51,7 +57,7 @@ My Bachelor academic formation included courses in:
 - Biological foundations and methods of biotechnology
 - Mechanical measurements and biomedical instrumentation
 
-My Bachelor Thesis focused on the Time-Frequency analysis of muscular recruitment in patients affected by Parkinson's disease. Muscular activation was assesed in time-frequency domain using the wavelet transform on EEG singnals acquired from muscles involved in gait. 
+My Bachelor Thesis focused on the Time-Frequency analysis of muscular recruitment in patients affected by Parkinson's disease. Muscular activation was assesed in time-frequency domain using the wavelet transform on EEG singnals acquired from muscles involved in gait. Contraction onset was determined by thresholding the power-spectra of the transformed signal and compared with motion-analysis-derived gait data. 
 
 ## Master's Degree
 My Master academic formation included courses in:
