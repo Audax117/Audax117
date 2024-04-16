@@ -25,6 +25,16 @@ I'm familiar with the basics of:
   - ASP
   - PDDL
 
+I'm familiar with:
+- Office 365 suite
+- Google Gemini Advanced
+- Chat GPT
+- Anaconda
+- Visual Studio Code
+- Pycharm
+- R studio
+- MongoDB
+
 University:
 - Bachelor's Degree in Biomedical Engineering at UNIVPM (AY 2017/2020). Graduated with 110 cum laude. Thesis: "Time-Frequency Analysis Of Muscular Rectruitment In Parkinson's Disease" (see below for details).  
 - Master's Degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023). Graduated with 110 cum laude. Thesis: "Machine Learning Based Approaches To Identify Non-Obvious Relationships Between Clinical and Biological Features In Chronich Lymphocytic Leukemia" (see below for details).
@@ -78,7 +88,8 @@ My Master academic formation included courses in:
 - Professional Skills
 - Neuroengineering Research Track
 
-In my Master Thesis I implemented Machine Learning based approaches to identify non-obvious relationships between clinical and biological features in Chronic Lymphocytic Leukemia (CLL). The proposed Data Analysis and Machine Learning pipeline successfully stratifies CLL patients in homogeneous groups, revealing non-obvious relationships among features and identifying potential markers of differential in vivo stimulation. 
+In my Master Thesis I implemented Machine Learning based approaches to identify non-obvious relationships between clinical and biological features in Chronic Lymphocytic Leukemia (CLL). The proposed Data Analysis and Machine Learning pipeline successfully stratifies CLL patients in homogeneous groups, revealing non-obvious relationships among features and identifying potential markers of differential in vivo stimulation.
+In this context I've also gain knowledge on Biclustering Algorithms, on the Combinatorial Auction Structured Search (CASS) algorithm and on the creation of synthetic data. 
 
 
 
