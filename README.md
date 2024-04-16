@@ -11,7 +11,8 @@ Ex Rugby player, now obsessed with Beach Volleyball 😎
 Certifications:
 - Cambridge English B2 FCE (2017)
 
-scambi culurali: 
+Abroad experiences:
+- 
 
 
 I have a good understanding of:
