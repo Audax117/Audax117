@@ -62,7 +62,7 @@ I'm familiar with:
 
   Thesis: "Machine Learning Based Approaches To Identify Non-Obvious Relationships Between Clinical and Biological Features In Chronich Lymphocytic Leukemia" (see below for details).
 
-## Academic Projects (add repositories links):
+## Academic Projects:
 - To improve the performance of an ASP-based rehabilitation scheduling system, I conducted a detailed analysis of such system: I compared the original ASP output to the coordinator's modified schedule to identify implicit assignment factors. This led to the creation of new ASP rules and constraints, informed by real-world scheduling practices, aiming to optimize the encoding's effectiveness.
 - I developed a classifier of facial expressions (serious or smiling) and gender using the FEI face database, a carefully controlled set of images. To ensure consistent analysis, images underwent preprocessing steps such as resizing, grayscale conversion, and formatting. I used Principal Component Analysis (PCA) to explore the dataset and understand the role of different features in classification. Next, I built and tested several classification models, including Naive Bayes Classifier (NB), Logistic Regression (LR), and a combination of Linear Discriminant Analysis with Naive Bayes (LDA NB). Model performance was compared using metrics like error rate, sensitivity, specificity, and Area Under ROC (AUC), revealing the superiority of the LDA NB model. Finally, I employed Linear Discriminant Analysis (LDA) to pinpoint the most crucial facial features (eigenfaces) for differentiating between expressions and genders.
 - Within the Biomedical Robotics course, I explored key concepts through hands-on projects: i) Sistem modeling: simulation of a DC motor's dynamics using Simulink; ii) Robot Control: implementation of a MATLAB model for the forward and the inverse kinematics of a 2D planar manipulandum; iii) NeuroRehabilitiation: creation of an interactive 3D virtual environment in Simulink for neuro-rehabilitiation purposes, featuring both force and viscous fields, where a user interacts with targets using a Phantom Omni haptic device robot. Target interaction can be either assisted or hindered by the robot allowing different degrees of assistance.
@@ -118,6 +118,3 @@ My Master academic formation included courses in:
 
 In my Master Thesis I implemented Machine Learning based approaches to identify non-obvious relationships between clinical and biological features in Chronic Lymphocytic Leukemia (CLL). The proposed Data Analysis and Machine Learning pipeline successfully stratifies CLL patients in homogeneous groups, revealing non-obvious relationships among features and identifying potential markers of differential in vivo stimulation.
 In this context I've also gain knowledge on Biclustering Algorithms, on the Combinatorial Auction Structured Search (CASS) algorithm and on the creation of synthetic data. 
-
-
-
