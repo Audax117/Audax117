@@ -38,6 +38,7 @@ I'm familiar with the basics of:
   - SQL
   - R
   - Simulink
+  - Brainstorm (MATLAB)
   - HTML
   - CSS
   - ASP
