@@ -71,7 +71,7 @@ I'm familiar with:
 - In the Neural Signal Analysis project, I investigated the impact of a brain lesion on connectivity between the rostral forelimb area (RFA) and primary somatosensory area (S1) in rats. Chronically implanted electrodes were used to record brain activity before and after inducing a lesion in a group of rats (ET1), while a control group (SHAM) remained unlesioned. My analysis, using the phase-locking value (PLV) across several frequency bands, suggested that the lesion decreased connectivity between the RFA and S1 regions. This decrease was less evident for connections within the areas themselves. Intriguingly, the control group also exhibited some connectivity changes, highlighting the need for careful interpretation of these findings. This work demonstrates the potential of PLV as a metric to study how brain lesions affect communication pathways. It could ultimately contribute to improved diagnosis, monitoring, and targeted rehabilitation approaches for brain injuries. 
 
 
-## Bachelor's Degree curricula details
+## Bachelor's Degree
 My Bachelor academic formation included courses in:
 - Inorganic chemistry
 - Physics
@@ -96,7 +96,7 @@ My Bachelor academic formation included courses in:
 
 My Bachelor Thesis focused on the Time-Frequency analysis of muscular recruitment in patients affected by Parkinson's disease. Muscular activation was assesed in time-frequency domain using the wavelet transform on EEG singnals acquired from muscles involved in gait. Contraction onset was determined by thresholding the power-spectra of the transformed signal and compared with motion-analysis-derived gait data. 
 
-## Master's Degree curricula details
+## Master's Degree
 My Master academic formation included courses in:
 - Analysis of Biomedical Data and Signals
 - Biomedical Imaging
