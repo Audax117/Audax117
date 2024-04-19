@@ -54,8 +54,12 @@ I'm familiar with:
 - MongoDB
 
 ## University:
-- Bachelor's Degree in Biomedical Engineering at UNIVPM (AY 2017/2020). Graduated with 110 cum laude. Thesis: "Time-Frequency Analysis Of Muscular Rectruitment In Parkinson's Disease" (see below for details).  
-- Master's Degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023). Graduated with 110 cum laude. Thesis: "Machine Learning Based Approaches To Identify Non-Obvious Relationships Between Clinical and Biological Features In Chronich Lymphocytic Leukemia" (see below for details).
+- Bachelor's Degree in Biomedical Engineering at UNIVPM (AY 2017/2020) - Graduated with 110 cum laude.
+
+  Thesis: "Time-Frequency Analysis Of Muscular Rectruitment In Parkinson's Disease" (see below for details).  
+- Master's Degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023) - Graduated with 110 cum laude.
+
+  Thesis: "Machine Learning Based Approaches To Identify Non-Obvious Relationships Between Clinical and Biological Features In Chronich Lymphocytic Leukemia" (see below for details).
 
 ## Academic Projects (add repositories links):
 - To improve the performance of an ASP-based rehabilitation scheduling system, I conducted a detailed analysis of such system: I compared the original ASP output to the coordinator's modified schedule to identify implicit assignment factors. This led to the creation of new ASP rules and constraints, informed by real-world scheduling practices, aiming to optimize the encoding's effectiveness.
