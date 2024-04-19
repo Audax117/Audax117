@@ -1,12 +1,19 @@
 # About Me
 
-Doctor in Bioengieering currently based in Ancona (The Marches, Italy). 
+Hello! 
+I am a Bioengineering Doctor currently residing in Ancona, Italy, nestled in the beautiful region of The Marches. 
 
-University projects and thesis research sparked my interest in data analysis and visualization. This led me to develop a strong skillset in these areas, ultimately guiding me toward a Data Analyst career path.
+My journey into data analysis and visualization ignited during my university projects and Master thesis research. This path equipped me with a robust skill set in these domains, steering me towards a potential career as a Data Analyst. Notably, my Master's thesis project provided invaluable opportunities to engage with professionals in the medical field, such as physicians. Through these experiences, I honed my ability to communicate complex topics clearly and concisely, catering to diverse audiences, including those unfamiliar with statistics, machine learning, and data analysis.
 
-A (popular) principle I believe in: "Simple is better than complex. Complex is better than complicated"
+One guiding (popular) principle I strongly adhere to is "Simple is better than complex. Complex is better than complicated." 
 
-Ex Rugby player, now obsessed with Beach Volleyball 😎 
+Outside of my professional pursuits, I transitioned from being an ex-Rugby player to becoming fervently passionate about Beach Volleyball. 
+
+## Contacts
+E-mail: s.mastri98@gmail.com
+
+LinkedIn: www.linkedin.com/in/simone-mastri-a97324202 
+ 
 
 ## Certifications:
 - Cambridge English B2 FCE (2017)
