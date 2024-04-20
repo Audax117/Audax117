@@ -1,7 +1,7 @@
 # About Me
 
 Hello! 
-I am a Bioengineering Doctor currently residing in Ancona, Italy, nestled in the beautiful region of The Marches. 
+I am a Bioengineering Doctor currently residing in Ancona (Italy), the capital city of the Marches region. 
 
 My journey into data analysis and visualization ignited during my university projects and Master thesis research. This path equipped me with a robust skill set in these domains, steering me towards a potential career as a Data Analyst. Notably, my Master's thesis project provided invaluable opportunities to engage with professionals in the medical field, such as physicians. Through these experiences, I honed my ability to communicate complex topics clearly and concisely, catering to diverse audiences, including those unfamiliar with statistics, machine learning, and data analysis.
 
