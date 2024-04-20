@@ -12,7 +12,7 @@ Outside of my professional pursuits, I transitioned from being an ex-Rugby playe
 ## Contacts
 E-mail: s.mastri98@gmail.com
 
-LinkedIn: www.linkedin.com/in/simone-mastri-a97324202 
+LinkedIn: www.linkedin.com/in/simone-mastri
  
 
 ## Certifications:
