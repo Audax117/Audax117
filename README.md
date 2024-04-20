@@ -55,10 +55,10 @@ I'm familiar with:
 - MongoDB
 
 ## University:
-- Bachelor's Degree in Biomedical Engineering at UNIVPM (AY 2017/2020) - Graduated with 110 cum laude.
+- Bachelor's Degree in Biomedical Engineering at UNIVPM (AY 2017/2020) - Graduation mark: 110/110 with honors.
 
   Thesis: "Time-Frequency Analysis Of Muscular Rectruitment In Parkinson's Disease" (see below for details).  
-- Master's Degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023) - Graduated with 110 cum laude.
+- Master's Degree in Bioengineering, specifically in Neuroengineering and Neurotechnologies, at UNIGE (AY 2021/2023) - Graduation mark: 110/110 with honors.
 
   Thesis: "Machine Learning Based Approaches To Identify Non-Obvious Relationships Between Clinical and Biological Features In Chronich Lymphocytic Leukemia" (see below for details).
 
