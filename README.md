@@ -16,7 +16,7 @@ LinkedIn: www.linkedin.com/in/simone-mastri
  
 
 ## Certifications:
-- Cambridge English B2 FCE (2016)
+- Cambridge English B2 (FCE) - 2016
 
 ## Abroad experiences:
 - Two weeks cultural exchange in collaboration with the Woodrow Wilson High School in Washington DC (2015)
