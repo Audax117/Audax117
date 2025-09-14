@@ -7,6 +7,8 @@ My journey into data analysis and visualization ignited during my university pro
 
 One guiding (popular) principle I strongly adhere to is "Simple is better than complex. Complex is better than complicated." 
 
+Currently, I work as a Functional Analyst and On-Site Manager with Sinapsys, in an outsourcing role for Dedalus. I'm contributing to a major PNRR project focused on modernizing the Hospital Information System across the Marche region. My role involves configuring and customizing Dedalus clinical applications, acting as a key link between clinicians, hospital IT staff, and the delivery team. This position allows me to apply and enhance my technical skills daily, using Python for data analysis and developing small applications to simplify my workflows.
+
 Outside of my professional pursuits, I transitioned from being an ex-Rugby player to becoming fervently passionate about Beach Volleyball. 
 
 ## Contacts
